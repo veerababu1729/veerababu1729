@@ -1,4 +1,4 @@
 # VeeraBabu
  CSE Student
-fontstyles
+font styles
 italic *Aditya Engineering College
