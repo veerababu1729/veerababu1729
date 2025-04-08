@@ -9,8 +9,8 @@ telugumemes.site 🎭 – A community-driven content platform
 
 Exam AI 🧠 – An AI-driven assessment platform
 
-📍 Based in Andhra Pradesh, India
-🎓 Alumnus of Aditya Engineering College
+
+🎓 Aditya University
 🏆 Featured on Unstop
 
 🧠 I believe in actions rather than words — always coding with purpose and impact.
