@@ -1,6 +1,6 @@
 👋 Hi, I'm Veerababu Palepu (He/Him)
 
-🚀 Passionate about building innovative, scalable, efficient, and aesthetically pleasing software products.
+🚀 Have been building innovative, scalable, efficient, and aesthetically pleasing software products for 2 years.
 
 👨‍💻 Currently working at @ee.info — where we’re shaping digital communities (50k+ TYC followers).
 
