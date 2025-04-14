@@ -6,12 +6,12 @@
 
 🌐 Built These Live Sites:
 
-telugumemes.site 🎭 – A community-driven content platform
+telugumemes.site 🎭 – a video platform for editors to search, download video assets.
 
-Exam AI 🧠 – An AI-driven assessment platform
+Exam AI 🧠 – An AI-Assistance driven exam preparation platform
 
 
-🎓 Aditya University
+🎓 Aditya University-2026
 🏆 Featured on Unstop
 
 🧠 I believe in actions rather than words — always coding with purpose and impact.
