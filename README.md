@@ -15,6 +15,15 @@ Exam AI 🧠 – An AI-Assistance driven exam preparation platform.             
 🏆 Featured on Unstop
 
 🧠 I believe in actions rather than words — always coding with purpose and impact.
-Techstack from my past works:
-![17506894570587454797275606315938](https://github.com/user-attachments/assets/94a69308-7c61-4795-bd84-435e7aa19b57)
 
+🪜Domains That I have been exploring:
+1. Full stack app development
+   - MERN, Android, Flutter.
+3. Cloud Computing :
+   Hands on experience on aws, Google Cloud platforms to deploy and maintaining live Projects.
+4. Gen AI, ML, Data Science real time impactful unique projects.
+
+🪄Focused interview skills:
+ Deep understanding of dsa and applications, computer Fundamentals.
+
+💻"Whenever an technical issue occurs I go with Fundamentals approach to solve"💻🪄
