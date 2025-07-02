@@ -18,12 +18,12 @@ Exam AI 🧠 – An AI-Assistance driven exam preparation platform.             
 
 🪜Domains That I have been exploring:
 1. Full stack app development
-   - MERN, Android, Flutter.
-3. Cloud Computing :
+   - MERN, Android, Flutter, Python, Java.
+2. Cloud Computing :
    Hands on experience on aws, Google Cloud platforms to deploy and maintaining live Projects.
-4. Gen AI, ML, Data Science real time impactful unique projects.
+3. Gen AI, ML, Data Science real time impactful unique projects.
 
 🪄Focused interview skills:
- Deep understanding of dsa and applications, computer Fundamentals.
+ Deep understanding of dsa and applications, system design and computer Fundamentals.
 
 💻"Whenever an technical issue occurs I go with Fundamentals approach to solve"💻🪄
