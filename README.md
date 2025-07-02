@@ -1,6 +1,6 @@
 👋 Hi, I'm Veerababu Palepu (He/Him)
 
-🚀 Have been building innovative, scalable, efficient, and aesthetically pleasing software products for 2 years.
+🚀 Have been building innovative, scalable, efficient, and aesthetically pleasing software products for 2 years, developed more than 20 projects.
 
 👨‍💻 Currently working at @ee.info and @unstop — where we’re shaping digital communities (50k+ TYC followers).
 
@@ -15,6 +15,8 @@
 🏆 Featured on Unstop
 
 🧠 I believe in actions rather than words — always coding with purpose and impact.
+
+
 
 🪜Domains That I have been exploring:
 1. Full stack app development
