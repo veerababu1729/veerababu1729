@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Veerababu Palepu (He/Him)
 
-🚀 I’ve been building innovative, scalable, efficient, and aesthetically pleasing software products for the past **2 years**, developing **20+ projects**.
+🚀 I’ve been building innovative, scalable, efficient, and aesthetically pleasing software products for the past **2 years**, developed **20+ projects**.
 
 👨‍💻 Currently working at **@ee.info** and **@unstop** — where we’re shaping digital communities (50k+ TYC followers).
 
