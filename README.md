@@ -6,9 +6,9 @@
 
 🌐 Built These Live Sites:
 
-telugumemes.site 🎭 – a video platform for editors to search, download video assets. [https://www.telugumemes.site/]
+   - telugumemes.site 🎭 – a video platform for editors to search, download video assets. [https://www.telugumemes.site/]
 
-Exam AI 🧠 – An AI-Assistance driven exam preparation platform.                      [https://examai-hhf5nnwzrxjrib9j3x2ln3.streamlit.app
+   - Exam AI 🧠 – An AI-Assistance driven exam preparation platform.                      [https://examai-hhf5nnwzrxjrib9j3x2ln3.streamlit.app
 
 
 🎓 Aditya University-2026
