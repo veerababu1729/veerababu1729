@@ -1,31 +1,47 @@
-👋 Hi, I'm Veerababu Palepu (He/Him)
+# 👋 Hi, I'm Veerababu Palepu (He/Him)
 
-🚀 Have been building innovative, scalable, efficient, and aesthetically pleasing software products for 2 years, developed more than 20 projects.
+🚀 I’ve been building innovative, scalable, efficient, and aesthetically pleasing software products for the past **2 years**, developing **20+ projects**.
 
-👨‍💻 Currently working at @ee.info and @unstop — where we’re shaping digital communities (50k+ TYC followers).
+👨‍💻 Currently working at **@ee.info** and **@unstop** — where we’re shaping digital communities (50k+ TYC followers).
 
-🌐 Built These Live Sites:
+---
 
-   - telugumemes.site 🎭 – a video platform for editors to search, download video assets. [https://www.telugumemes.site/]
+## 🌐 Built These Live Sites:
 
-   - Exam AI 🧠 – An AI-Assistance driven exam preparation platform.                      [https://examai-hhf5nnwzrxjrib9j3x2ln3.streamlit.app
+- **[telugumemes.site 🎭](https://www.telugumemes.site/)**  
+  A video platform for editors to search and download video assets.
 
+- **[Exam AI 🧠](https://examai-hhf5nnwzrxjrib9j3x2ln3.streamlit.app)**  
+  An AI-assisted exam preparation platform.
 
-🎓 Aditya University-2026
-🏆 Featured on Unstop
+---
+
+🎓 **Aditya University – 2026**  
+🏆 **Featured on Unstop**
 
 🧠 I believe in actions rather than words — always coding with purpose and impact.
 
+---
 
+## 🪜 Domains I've Been Exploring:
 
-🪜Domains That I have been exploring:
-1. Full stack app development
-   - MERN, Android, Flutter, Python, Java.
-2. Cloud Computing :
-   Hands on experience on aws, Google Cloud platforms to deploy and maintaining live Projects.
-3. Gen AI, ML, Data Science real time impactful unique projects.
+1. **Full Stack App Development**  
+   - MERN, Android, Flutter, Python, Java
 
-🪄Focused interview skills:
- Deep understanding of dsa and applications, system design and computer Fundamentals.
+2. **Cloud Computing**  
+   - Hands-on experience with **AWS** and **Google Cloud**  
+   - Deploying and maintaining **live projects**
 
-💻"Whenever an technical issue occurs I go with Fundamentals approach to solve"💻🪄
+3. **Gen AI, Machine Learning, and Data Science**  
+   - Real-time, impactful, and unique projects
+
+---
+
+## 🪄 Focused Interview Skills:
+
+- Deep understanding of **DSA**, its real-world applications  
+- Solid grasp of **System Design** and **Computer Fundamentals**
+
+---
+
+💻 _"Whenever a technical issue occurs, I go with a fundamentals-first approach to solve it."_ 💻🪄
