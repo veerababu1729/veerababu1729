@@ -26,7 +26,7 @@
 ## 🪜 Domains I've Been Exploring:
 
 1. **Full Stack App Development**  
-   - HTML, CSS, JavaScript, MySQL, MERN, Android, Flutter, Python, Java, PHP.
+   - PHP, HTML, CSS, JavaScript, MySQL, MERN, Android, Flutter, Python, Java.
 
 2. **Cloud Computing**  
    - Hands-on experience with **AWS** and **Google Cloud**  
