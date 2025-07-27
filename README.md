@@ -44,4 +44,4 @@
 
 ---
 
-💻 _"Whenever a technical issue occurs, I go with a fundamentals or first principles approach to solve it."_ 💻🪄
+💻 _"Whenever a technical issue occurs, I try to follow fundamentals or first principles approach to solve it."_ 💻🪄
