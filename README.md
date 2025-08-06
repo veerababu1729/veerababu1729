@@ -19,14 +19,14 @@
 🎓 **Aditya University – 2026**  
 🏆 **Featured on Unstop**
 
-🧠 I believe in actions rather than words — always coding with purpose and impact.
+🧠 I believe in actions — always coding with purpose and impact.
 
 ---
 
 ## 🪜 Domains I've Been Exploring:
 
 1. **Full Stack App Development**  
-   - PHP, HTML, CSS, JavaScript, MySQL, MERN, Android, Flutter, Python, Java.
+   - HTML, CSS, JavaScript, MySQL, Firestore, MERN, Android, Flutter, Python, Java.
 
 2. **Cloud Computing**  
    - Hands-on experience with **AWS** and **Google Cloud**  
