@@ -9,7 +9,7 @@
 ## 🌐 Built These Live Sites:
 
 - **[telugumemes.com 🎭](https://www.telugumemes.com/)**  
-  A video platform for editors to search and download video assets.
+  A video platform for editors to search and download video assets. Active 30k+ monthly users.
 
 - **[Exam AI 🧠](https://examai-hhf5nnwzrxjrib9j3x2ln3.streamlit.app)**  
   An AI-assisted exam preparation platform.
