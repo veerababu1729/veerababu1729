@@ -8,7 +8,7 @@
 
 ## 🌐 Built These Live Sites:
 
-- **[telugumemes.site 🎭](https://www.telugumemes.site/)**  
+- **[telugumemes.com 🎭](https://www.telugumemes.com/)**  
   A video platform for editors to search and download video assets.
 
 - **[Exam AI 🧠](https://examai-hhf5nnwzrxjrib9j3x2ln3.streamlit.app)**  
